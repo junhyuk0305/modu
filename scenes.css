@@ -247,9 +247,9 @@
 .collab-invite .pill { flex: none }
 
 /* The photograph fills the hero. The gradient follows the position of the copy. */
+.photo-hero, .page-programs main > .scene.field-cover { min-height: calc(100svh - var(--header)) }
 .photo-hero {
   position: relative; isolation: isolate; overflow: hidden; color: white; background: var(--ink);
-  min-height: calc(100svh - var(--header));
   --hero-shade: linear-gradient(90deg,#07181ee8,#07181eab 44%,#07181e25 80%);
 }
 .title.photo-hero .wrap { display: block }
