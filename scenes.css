@@ -312,4 +312,4 @@
 .course-scores dl { margin: 10px 0 0 }
 .course-scores dl > div { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding-block: 9px; border-top: var(--draw-line-size) solid var(--line) }
 .course-scores dd { flex: none; margin: 0; font-weight: 700; font-variant-numeric: tabular-nums }
-.page-programs .report-pair .document-photo img, #case-social .document-photo img { height: auto; aspect-ratio: 4 / 3 }
+.page-programs .report-pair .document-photo img { height: auto; aspect-ratio: 4 / 3 }
