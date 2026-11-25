@@ -1,0 +1,10 @@
+/review.html
+/program-demos/
+/images/brief/image*
+!/images/brief/image1.jpeg
+!/images/brief/image2.png
+!/images/brief/image3.png
+!/images/brief/image11.png
+/images/brief/review-poster.webp
+/vendor/gsap-3.13.min.js
+/vendor/ScrollTrigger-3.13.min.js
